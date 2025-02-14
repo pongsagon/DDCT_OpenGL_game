@@ -1,0 +1,462 @@
+# Blender 4.2.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl D_cao_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_cao_1_baseColor.png
+
+newmtl D_deng_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_deng_1_baseColor.png
+
+newmtl D_dibiao_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_1_baseColor.png
+
+newmtl D_dibiao_14SnowD
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_14SnowD_baseColor.png
+
+newmtl D_dibiao_15
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_15_baseColor.png
+
+newmtl D_dibiao_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_2_baseColor.png
+
+newmtl D_dibiao_3
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_3_baseColor.png
+
+newmtl D_dibiao_5
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_5_baseColor.png
+
+newmtl D_dibiao_6
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_6_baseColor.png
+
+newmtl D_dibiao_7
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_7_baseColor.png
+
+newmtl D_dibiao_7SnowD
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_7SnowD_baseColor.png
+
+newmtl D_dibiao_9
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_dibiao_9_baseColor.png
+
+newmtl D_guanggao_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_guanggao_2_baseColor.png
+
+newmtl D_hongqiang_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_hongqiang_1_baseColor.png
+
+newmtl D_huatan_1_snowD
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_huatan_1_snowD_baseColor.png
+
+newmtl D_hulang_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_hulang_1_baseColor.png
+
+newmtl D_jiaotang_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_jiaotang_1_baseColor.png
+
+newmtl D_jiaotang_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_jiaotang_2_baseColor.png
+
+newmtl D_jiaotang_3
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_jiaotang_3_baseColor.png
+
+newmtl D_lujian_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_lujian_1_baseColor.png
+
+newmtl D_lujian_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_lujian_2_baseColor.png
+
+newmtl D_men_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_men_1_baseColor.png
+
+newmtl D_peilou_1_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_1_2_baseColor.png
+
+newmtl D_peilou_2_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_2_1_baseColor.png
+
+newmtl D_peilou_3
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_3_baseColor.png
+
+newmtl D_peilou_4
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_4_baseColor.png
+
+newmtl D_peilou_5
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_5_baseColor.png
+
+newmtl D_peilou_6
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_6_baseColor.png
+
+newmtl D_peilou_7
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_7_baseColor.png
+
+newmtl D_peilou_8
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_8_baseColor.png
+
+newmtl D_peilou_9
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_peilou_9_baseColor.png
+
+newmtl D_qiang_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_qiang_1_baseColor.png
+
+newmtl D_qiang_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_qiang_2_baseColor.png
+
+newmtl D_qiang_3
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_qiang_3_baseColor.png
+
+newmtl D_shui_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_shui_1_baseColor.png
+
+newmtl D_suidao_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_suidao_1_baseColor.png
+
+newmtl D_tiezhalan_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/D_tiezhalan_1_baseColor.png
+map_d textures/D_tiezhalan_1_baseColor.png
+
+newmtl D_tiezhalan_2
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/D_tiezhalan_2_baseColor.png
+map_d textures/D_tiezhalan_2_baseColor.png
+
+newmtl D_tiezhalan_3
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/D_tiezhalan_3_baseColor.png
+map_d textures/D_tiezhalan_3_baseColor.png
+
+newmtl D_tiezhalan_4
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_tiezhalan_4_baseColor.png
+
+newmtl D_tong_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_tong_1_baseColor.png
+
+newmtl D_xue_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_xue_1_baseColor.png
+
+newmtl D_zhibei_1
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/D_zhibei_1_baseColor.png
+map_d textures/D_zhibei_1_baseColor.png
+
+newmtl D_zhibei_3
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/D_zhibei_3_baseColor.png
+map_d textures/D_zhibei_3_baseColor.png
+
+newmtl D_zhishipai1_A
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_zhishipai1_B_baseColor.png
+
+newmtl D_zhishipai1_B
+Ns 1.788855
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/D_zhishipai1_B_baseColor.png
