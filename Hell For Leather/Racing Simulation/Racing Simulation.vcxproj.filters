@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Racing Simulation.cpp" />
+    <ClCompile Include="Skybox.cpp" />
+    <ClCompile Include="Wheel.cpp" />
+    <ClCompile Include="CollisionChecker.cpp" />
+    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="SoundManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="Carconfig.h" />
+    <ClInclude Include="mesh.h" />
+    <ClInclude Include="model.h" />
+    <ClInclude Include="shader_m.h" />
+    <ClInclude Include="Skybox.h" />
+    <ClInclude Include="Wheel.h" />
+    <ClInclude Include="CollisionChecker.h" />
+    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="Timer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\model\model_loading.fs" />
+    <None Include="Shaders\model\model_loading.vs" />
+    <None Include="Shaders\PBR\background.fs" />
+    <None Include="Shaders\PBR\background.vs" />
+    <None Include="Shaders\PBR\brdf.fs" />
+    <None Include="Shaders\PBR\brdf.vs" />
+    <None Include="Shaders\PBR\cubemap.vs" />
+    <None Include="Shaders\PBR\equirectangular_to_cubemap.fs" />
+    <None Include="Shaders\PBR\irradiance_convolution.fs" />
+    <None Include="Shaders\PBR\pbr.fs" />
+    <None Include="Shaders\PBR\pbr.vs" />
+    <None Include="Shaders\PBR\prefilter.fs" />
+    <None Include="Shaders\text.fs" />
+    <None Include="Shaders\text.vs" />
+    <None Include="Shaders\UIShader.fs" />
+    <None Include="Shaders\UIShader.vs" />
+    <None Include="Shaders\skybox\skybox.fs" />
+    <None Include="Shaders\skybox\skybox.vs" />
+    <None Include="Textures\newport_loft.hdr" />
+    <None Include="Textures\sky.hdr" />
+    <None Include="Textures\sunset.hdr" />
+    <None Include="Textures\track_hdr.hdr" />
+    <None Include="Shaders\diffuse lighting\light_cube.fs" />
+    <None Include="Shaders\diffuse lighting\light_cube.vs" />
+    <None Include="Shaders\diffuse lighting\lighting_shader.fs" />
+    <None Include="Shaders\diffuse lighting\lighting_shader.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sounds\accelerate_sound.mp3" />
+    <Media Include="Sounds\accelerate_sound.wav" />
+    <Media Include="Sounds\accelerate_sound2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\sunset\nx.png" />
+    <Image Include="Textures\sunset\ny.png" />
+    <Image Include="Textures\sunset\nz.png" />
+    <Image Include="Textures\sunset\px.png" />
+    <Image Include="Textures\sunset\py.png" />
+    <Image Include="Textures\sunset\pz.png" />
+    <Image Include="Textures\skybox\back.jpg" />
+    <Image Include="Textures\skybox\bottom.jpg" />
+    <Image Include="Textures\skybox\front.jpg" />
+    <Image Include="Textures\skybox\left.jpg" />
+    <Image Include="Textures\skybox\negx.jpg" />
+    <Image Include="Textures\skybox\negy.jpg" />
+    <Image Include="Textures\skybox\negz.jpg" />
+    <Image Include="Textures\skybox\posx.jpg" />
+    <Image Include="Textures\skybox\posy.jpg" />
+    <Image Include="Textures\skybox\posz.jpg" />
+    <Image Include="Textures\skybox\right.jpg" />
+    <Image Include="Textures\skybox\top.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Textures\Fonts\digital-7.ttf" />
+  </ItemGroup>
+</Project>

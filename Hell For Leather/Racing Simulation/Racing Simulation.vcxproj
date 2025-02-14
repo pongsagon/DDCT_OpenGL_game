@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{4d5b287d-62b0-4417-87c9-ff0572f7bb84}</ProjectGuid>
+    <RootNamespace>RacingSimulation</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)\includes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>glfw3.lib;opengl32.lib;assimp.lib;freetype.lib;irrKlang.lib;Debug\STB_IMAGE.lib;Debug\GLAD.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="Carconfig.h" />
+    <ClInclude Include="CollisionChecker.h" />
+    <ClInclude Include="mesh.h" />
+    <ClInclude Include="model.h" />
+    <ClInclude Include="shader_m.h" />
+    <ClInclude Include="Skybox.h" />
+    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="Timer.h" />
+    <ClInclude Include="Wheel.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="CollisionChecker.cpp" />
+    <ClCompile Include="Racing Simulation.cpp" />
+    <ClCompile Include="Skybox.cpp" />
+    <ClCompile Include="SoundManager.cpp" />
+    <ClCompile Include="Wheel.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\diffuse lighting\lighting_shader.fs" />
+    <None Include="Shaders\diffuse lighting\lighting_shader.vs" />
+    <None Include="Shaders\diffuse lighting\light_cube.fs" />
+    <None Include="Shaders\diffuse lighting\light_cube.vs" />
+    <None Include="Shaders\model\model_loading.fs" />
+    <None Include="Shaders\model\model_loading.vs" />
+    <None Include="Shaders\PBR\background.fs" />
+    <None Include="Shaders\PBR\background.vs" />
+    <None Include="Shaders\PBR\brdf.fs" />
+    <None Include="Shaders\PBR\brdf.vs" />
+    <None Include="Shaders\PBR\cubemap.vs" />
+    <None Include="Shaders\PBR\equirectangular_to_cubemap.fs" />
+    <None Include="Shaders\PBR\irradiance_convolution.fs" />
+    <None Include="Shaders\PBR\pbr.fs" />
+    <None Include="Shaders\PBR\pbr.vs" />
+    <None Include="Shaders\PBR\prefilter.fs" />
+    <None Include="Shaders\skybox\skybox.fs" />
+    <None Include="Shaders\skybox\skybox.vs" />
+    <None Include="Shaders\text.fs" />
+    <None Include="Shaders\text.vs" />
+    <None Include="Shaders\UIShader.fs" />
+    <None Include="Shaders\UIShader.vs" />
+    <None Include="Textures\newport_loft.hdr" />
+    <None Include="Textures\sky.hdr" />
+    <None Include="Textures\sunset.hdr" />
+    <None Include="Textures\track_hdr.hdr" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sounds\accelerate_sound.mp3" />
+    <Media Include="Sounds\accelerate_sound.wav" />
+    <Media Include="Sounds\accelerate_sound2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\skybox\back.jpg" />
+    <Image Include="Textures\skybox\bottom.jpg" />
+    <Image Include="Textures\skybox\front.jpg" />
+    <Image Include="Textures\skybox\left.jpg" />
+    <Image Include="Textures\skybox\negx.jpg" />
+    <Image Include="Textures\skybox\negy.jpg" />
+    <Image Include="Textures\skybox\negz.jpg" />
+    <Image Include="Textures\skybox\posx.jpg" />
+    <Image Include="Textures\skybox\posy.jpg" />
+    <Image Include="Textures\skybox\posz.jpg" />
+    <Image Include="Textures\skybox\right.jpg" />
+    <Image Include="Textures\skybox\top.jpg" />
+    <Image Include="Textures\sunset\nx.png" />
+    <Image Include="Textures\sunset\ny.png" />
+    <Image Include="Textures\sunset\nz.png" />
+    <Image Include="Textures\sunset\px.png" />
+    <Image Include="Textures\sunset\py.png" />
+    <Image Include="Textures\sunset\pz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Textures\Fonts\digital-7.ttf" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿  Car.cpp
+C:\Capt\racingsimulation\Racing Simulation\Wheel.h(4,10): error C1083: Cannot open include file: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  (compiling source file 'Car.cpp')
+  
+  CollisionChecker.cpp
+C:\Capt\racingsimulation\Racing Simulation\CollisionChecker.h(4,10): error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  (compiling source file 'CollisionChecker.cpp')
+  
+  Racing Simulation.cpp
+C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(1,10): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Skybox.cpp
+C:\Capt\racingsimulation\Racing Simulation\Skybox.h(5,10): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'Skybox.cpp')
+  
+  SoundManager.cpp
+C:\Capt\racingsimulation\Racing Simulation\SoundManager.h(2,10): error C1083: Cannot open include file: 'irrKlang/irrKlang.h': No such file or directory
+  (compiling source file 'SoundManager.cpp')
+  
+  Wheel.cpp
+C:\Capt\racingsimulation\Racing Simulation\Wheel.h(4,10): error C1083: Cannot open include file: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  (compiling source file 'Wheel.cpp')
+  
