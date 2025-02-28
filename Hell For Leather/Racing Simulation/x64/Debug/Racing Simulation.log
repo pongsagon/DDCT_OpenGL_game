@@ -1,46 +1,46 @@
 ﻿  Car.cpp
-C:\Capt\racingsimulation\Racing Simulation\Car.cpp(175,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   CollisionChecker.cpp
-C:\Capt\racingsimulation\Racing Simulation\CollisionChecker.cpp(34,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Car.cpp(175,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\CollisionChecker.cpp(34,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   Racing Simulation.cpp
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(746,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(747,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(748,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(749,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(778,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(779,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(792,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(817,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:         with
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:         [
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:             T=float
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:         ]
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:         with
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:         [
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:             T=float
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:         ]
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:         with
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:         [
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:             T=float
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:         ]
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:         with
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:         [
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:             T=float
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:         ]
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:         with
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:         [
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:             T=float
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:         ]
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:         with
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:         [
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:             T=float
-C:\Capt\racingsimulation\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:         ]
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(746,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(747,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(748,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(749,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(778,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(779,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(792,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(817,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:         with
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:         [
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:             T=float
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(891,39): warning C4244:         ]
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:         with
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:         [
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:             T=float
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(892,39): warning C4244:         ]
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:         with
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:         [
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:             T=float
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(893,39): warning C4244:         ]
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:         with
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:         [
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:             T=float
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(895,39): warning C4244:         ]
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:         with
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:         [
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:             T=float
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(896,39): warning C4244:         ]
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:         with
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:         [
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:             T=float
+C:\Capt\DDCT_OpenGL_game\Hell For Leather\Racing Simulation\Racing Simulation.cpp(897,39): warning C4244:         ]
   Skybox.cpp
   SoundManager.cpp
   Wheel.cpp
@@ -83,6 +83,6 @@ freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.
 freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
 freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
 freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
-     Creating library C:\Capt\racingsimulation\x64\Debug\Racing Simulation.lib and object C:\Capt\racingsimulation\x64\Debug\Racing Simulation.exp
+     Creating library C:\Capt\DDCT_OpenGL_game\Hell For Leather\x64\Debug\Racing Simulation.lib and object C:\Capt\DDCT_OpenGL_game\Hell For Leather\x64\Debug\Racing Simulation.exp
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  Racing Simulation.vcxproj -> C:\Capt\racingsimulation\x64\Debug\Racing Simulation.exe
+  Racing Simulation.vcxproj -> C:\Capt\DDCT_OpenGL_game\Hell For Leather\x64\Debug\Racing Simulation.exe

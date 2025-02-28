@@ -1,0 +1,12 @@
+# Blender 4.2.1 LTS MTL File: 'Chevrolet ss nascar - Copy.blend'
+# www.blender.org
+
+newmtl wheel
+Ns 105.624992
+Ka 1.000000 1.000000 1.000000
+Ks 0.733333 0.733333 0.733333
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wheel.png
