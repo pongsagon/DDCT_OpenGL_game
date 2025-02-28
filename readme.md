@@ -1,4 +1,5 @@
 # DDCT_OpenGL_game
+WIP. Updating info.
 
 ## Overview
 This repository contains files ....
