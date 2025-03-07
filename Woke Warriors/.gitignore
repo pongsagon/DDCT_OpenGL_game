@@ -1,0 +1,14 @@
+
+*.db
+*.db
+*.db-wal
+*.db-shm
+*.vsidx
+*.db
+*.tlog
+*.obj
+*.ilk
+*.exp
+*.lib
+*.pdb
+*.ipch

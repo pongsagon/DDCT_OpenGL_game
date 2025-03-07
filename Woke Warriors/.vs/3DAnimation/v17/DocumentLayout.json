@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capt\\Fighting-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\3DAnimation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\3DAnimation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\animator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\animator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\model_animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\model_animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capt\\Fighting-Game\\includes\\assimp\\Importer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\assimp\\Importer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\animdata.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\animdata.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|C:\\Capt\\Fighting-Game\\3DAnimation\\bone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71D0993F-FCED-4A19-B589-CB5AB53F9111}|3DAnimation\\3DAnimation.vcxproj|solutionrelative:3DAnimation\\bone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capt\\Fighting-Game\\3DAnimation\\assimp_glm_helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3DAnimation\\assimp_glm_helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capt\\Fighting-Game\\3DAnimation\\anim_model.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3DAnimation\\anim_model.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capt\\Fighting-Game\\3DAnimation\\anim_model.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3DAnimation\\anim_model.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3DAnimation.cpp",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\3DAnimation.cpp",
+              "RelativeDocumentMoniker": "3DAnimation\\3DAnimation.cpp",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\3DAnimation.cpp",
+              "RelativeToolTip": "3DAnimation\\3DAnimation.cpp",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAqwAYCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T06:01:19.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animation.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\animation.h",
+              "RelativeDocumentMoniker": "3DAnimation\\animation.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\animation.h",
+              "RelativeToolTip": "3DAnimation\\animation.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T06:01:19.244Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mesh.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\mesh.h",
+              "RelativeDocumentMoniker": "3DAnimation\\mesh.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\mesh.h",
+              "RelativeToolTip": "3DAnimation\\mesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T04:06:49.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "model.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\model.h",
+              "RelativeDocumentMoniker": "3DAnimation\\model.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\model.h",
+              "RelativeToolTip": "3DAnimation\\model.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T04:06:47.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "animator.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\animator.h",
+              "RelativeDocumentMoniker": "3DAnimation\\animator.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\animator.h",
+              "RelativeToolTip": "3DAnimation\\animator.h",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T08:14:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Importer.hpp",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\includes\\assimp\\Importer.hpp",
+              "RelativeDocumentMoniker": "includes\\assimp\\Importer.hpp",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\includes\\assimp\\Importer.hpp",
+              "RelativeToolTip": "includes\\assimp\\Importer.hpp",
+              "ViewState": "AgIAAIUCAAAAAAAAAAAmwJ4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T06:01:19.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "model_animation.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\model_animation.h",
+              "RelativeDocumentMoniker": "3DAnimation\\model_animation.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\model_animation.h",
+              "RelativeToolTip": "3DAnimation\\model_animation.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T06:01:19.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "animdata.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\animdata.h",
+              "RelativeDocumentMoniker": "3DAnimation\\animdata.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\animdata.h",
+              "RelativeToolTip": "3DAnimation\\animdata.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T06:01:19.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bone.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\bone.h",
+              "RelativeDocumentMoniker": "3DAnimation\\bone.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\bone.h",
+              "RelativeToolTip": "3DAnimation\\bone.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T06:01:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "anim_model.vs",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\anim_model.vs",
+              "RelativeDocumentMoniker": "3DAnimation\\anim_model.vs",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\anim_model.vs",
+              "RelativeToolTip": "3DAnimation\\anim_model.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T06:01:19.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "anim_model.fs",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\anim_model.fs",
+              "RelativeDocumentMoniker": "3DAnimation\\anim_model.fs",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\anim_model.fs",
+              "RelativeToolTip": "3DAnimation\\anim_model.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T06:01:19.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "assimp_glm_helpers.h",
+              "DocumentMoniker": "C:\\Capt\\Fighting-Game\\3DAnimation\\assimp_glm_helpers.h",
+              "RelativeDocumentMoniker": "3DAnimation\\assimp_glm_helpers.h",
+              "ToolTip": "C:\\Capt\\Fighting-Game\\3DAnimation\\assimp_glm_helpers.h",
+              "RelativeToolTip": "3DAnimation\\assimp_glm_helpers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T06:01:19.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{8decc4f0-1948-45bc-a60d-e80e451a37ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\PBR">
+      <UniqueIdentifier>{7ceb8bcc-fa1c-4ca8-b92f-06bdfa5efd07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3DAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="animation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="animator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="animdata.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bone.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="model_animation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_m.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorMesh.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\PBR\background.fs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\background.vs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\brdf.fs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\brdf.vs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\cubemap.vs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\equirectangular_to_cubemap.fs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\irradiance_convolution.fs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\pbr.fs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\pbr.vs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\PBR\prefilter.fs">
+      <Filter>Shaders\PBR</Filter>
+    </None>
+    <None Include="Shaders\text.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\text.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\UIShader.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\UIShader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\skybox\skybox.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\skybox\skybox.vs">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
